@@ -45,5 +45,10 @@ public WebElement getOurCompanyOption() {
 public WebElement getCreateCustomerBtn() {
 	return createCustomerBtn;
 }
+	public void hello()
+	{
+		System.out.println("hello");	
+	}
+		
 
 }
